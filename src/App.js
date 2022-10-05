@@ -28,7 +28,7 @@ function App() {
       `,
       {
         headers: {
-          authorization: `token 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`,
+          authorization: `token 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`, // 만료, 토큰 재발급 하면 실행 가능
         },
       }
     );
